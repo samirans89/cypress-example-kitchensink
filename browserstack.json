@@ -15,6 +15,7 @@
       "versions": ["85"]
     }],
   "run_settings": {
+    "cypress_version": "6",
     "cypress_proj_dir": "./",
     "project_name": "Cypress Kitchen Sink Example",
     "build_name": "Cypress on BrowserStack",
